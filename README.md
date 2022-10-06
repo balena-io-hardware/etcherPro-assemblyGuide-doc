@@ -81,8 +81,8 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - The yellow cables should be connected to '⏚'
 - Install the 14cm cable and the 40cm on the AC side of the PSU, you can either join the end of the wires by twisting them or leave them straight
 
-- For BOSCH GSR12V screwdriver use speed **2** - torque **5**
-- For BOSCH GSB120 screwdriver use speed **2** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
+- For BOSCH GSR12V screwdriver use speed **1** - torque **1**
+- For BOSCH GSB120 screwdriver use speed **1** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
   < PHOTO >
@@ -194,7 +194,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 1. Cut the following length of Cables
 
-    - 2 x **24cm** - red/black (dual core), with fork terminals on both sides
+    - 2 x **24cm** - red/black (dual core), with fork terminals on one side
 
 2. Install a fork terminal to one side of each cable using the crimper
   - Do not remove the trimmed insulation on the other side of the cables
@@ -253,8 +253,8 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 2. Install the DC cables on the mainboard and secure them in place using the BOSCH screwdriver
 
 - Pay extra attention to make sure the **red** cables are connected to the terminals marked with **+5v** and the **black** cables are connected to the terminals marked with **GND**
-- For BOSCH GSR12V screwdriver use speed **2** - torque **10**
-- For BOSCH GSB120 screwdriver use speed **2** - torque **5** (should be set to 'Screw', not 'Drill' or 'Hammer')
+- For BOSCH GSR12V screwdriver use speed **1** - torque **1**
+- For BOSCH GSB120 screwdriver use speed **1** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 
 3. Orient the mainboard so that the header connectors pointing upwards
