@@ -79,7 +79,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - The brown cables should be connected to 'L'
 - The blue cables should be connected to 'N'
 - The yellow cables should be connected to '⏚'
-- Install the 14cm cable and the 40cm on the AC side of the PSU, you can either join the end of the wires by twisting them or leave them straight
+- Install the 14cm cable and the 40cm on the AC side of the PSU. Leave them straight by having the stripped edge of the sort wire on the left side of the screw and other edge of the longer wire on the right side and then screw them in place. 
 
 - For BOSCH GSR12V screwdriver use speed **1** - torque **1**
 - For BOSCH GSB120 screwdriver use speed **1** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
