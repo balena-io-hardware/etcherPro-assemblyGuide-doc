@@ -1,0 +1,52 @@
+- commits:
+    - subject: Switch from balenaCI to Flowzone
+      hash: 48f2e7b55d4bc51ae1d40e0ab4661c163cacffa7
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+        signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+      author: Heath Raftery
+      nested: []
+  version: 1.0.3
+  title: ""
+  date: 2022-10-17T14:44:44.710Z
+- version: 1.0.2
+  date: 2022-10-17T14:35:32Z
+  commits:
+    - hash: 3d49349bb3c4e9293ef1f2e0e00ba836d659a684
+      author: Andreas Metaxas
+      footers:
+        patch: Fixed grammar at read me .md
+      subject: "Patch: Updating rules for wires and toques in README.md"
+      body: null
+- version: 1.0.1
+- date: 2022-10-17T13:34:38Z
+- commits:
+    - hash: eb6d74f4f26f5e32df3a09a1cf5c6e5b0680b26d
+- commits:
+    - author: rcooke-warwick
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+- commits:
+    - subject: change repo type to generic
+- commits:
+    - body: null
+- version: 1.0.0
+- date: 2022-07-26T08:58:16Z
+- commits:
+    - hash: 26ae8ee244adba7fda797b70fa5adb52fef5bac1
+- commits:
+    - author: Konstantinos Mouzakis
+- commits:
+    - footers:
+        change-type: major
+- commits:
+    - subject: Added files
+- commits:
+    - body: null
