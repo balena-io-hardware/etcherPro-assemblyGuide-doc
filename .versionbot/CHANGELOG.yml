@@ -1,4 +1,22 @@
 - commits:
+    - subject: "Patch: Updating photos-instructions"
+      hash: dae9252e520394544a227be025155aa02299ee40
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Updating rules for wires and toques in README.md"
+      hash: bf8e735e03e2932a6897a49c53b1b05a86edf0b9
+      body: ""
+      footer:
+        Patch: Fixed grammar at read me .md
+        patch: Fixed grammar at read me .md
+      author: Andreas Metaxas
+      nested: []
+  version: 1.0.4
+  title: ""
+  date: 2022-10-20T09:27:59.069Z
+- commits:
     - subject: Switch from balenaCI to Flowzone
       hash: 48f2e7b55d4bc51ae1d40e0ab4661c163cacffa7
       body: ""
