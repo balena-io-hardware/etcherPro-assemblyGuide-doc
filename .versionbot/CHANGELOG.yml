@@ -1,4 +1,14 @@
 - commits:
+    - subject: "Patch: parenthesis added"
+      hash: f8081b759872fc9c474ca46a26f3d389a9ce66d5
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+  version: 1.0.5
+  title: ""
+  date: 2022-10-20T14:38:57.153Z
+- commits:
     - subject: "Patch: Updating photos-instructions"
       hash: dae9252e520394544a227be025155aa02299ee40
       body: ""
