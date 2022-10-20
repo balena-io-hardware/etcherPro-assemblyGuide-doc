@@ -81,11 +81,11 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - The yellow cables should be connected to '⏚'
 - Install the 14cm cable and the 40cm on the AC side of the PSU. Leave them straight by having the stripped edge of the sort wire on the left side of the screw and other edge of the longer wire on the right side and then screw them in place.
 
-- For BOSCH GSR12V screwdriver use speed **1** - torque **1**
-- For BOSCH GSB120 screwdriver use speed **1** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
+- For BOSCH GSR12V screwdriver use speed **1** - torque **5**
+- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
-  < PHOTO >
+  <img src="./output/Assembly-guide-photos/instructions/AC-Wires-to-the-PSU.jpg" width="600">
 </p>
 
 ## Bottom subassembly
@@ -162,7 +162,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 8. Inspect that all cables and connectors are securely fastened and properly aligned
 
 <p align="center">
-  <img src="./output/Assembly-guide-photos/instructions/PSU-plus-AC-cables.jpg" width="600">
+  <img src="./output/Assembly-guide-photos/instructions/AC-wires-to-the-EN.MOD.jpg" width="600">
   </p>
 
 9. Remove the double-side tape protection film from the metal label and install it using the label jig
