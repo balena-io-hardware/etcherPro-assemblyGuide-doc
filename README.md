@@ -83,7 +83,9 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
  Updating-assembly-guide
 - For BOSCH GSR12V screwdriver use speed **1** - torque **5**
-- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer'
+ Updating-assembly-guide
+- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer') 
+
 
 <p align="center">
   <img src="./output/Assembly-guide-photos/instructions/AC-Wires-to-the-PSU.jpg" width="600">
