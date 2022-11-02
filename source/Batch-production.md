@@ -12,4 +12,4 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - Inspect the assembly work bench and make sure it's clean
 - Apply 20 complete Top-shell sub-assembly on the top side of the work bench
 
-<img src="./output/Batch-production-photos/Top-shells-step.jpg" width="250">
+<img src="./etcherPro-assemblyGuide/output/Batch-production-photos/Top-shells-step.jpg" width="250">
