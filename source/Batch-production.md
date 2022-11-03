@@ -26,12 +26,13 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 ## AC harness
 
-<img src="../output/Batch-production-photos/Top-shells-step.jpg" width="250">
-
 [BoM](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#ac-harness)
 
 #### Steps
 
-1.
-
-2.
+1. Cut as many 14cm cables as specified in the production-manufacturing order by
+selecting program 1 on the cable-cutting-stripping machine.
+2. Cut as many 40cm cables as specified in the production-manufacturing order by
+selecting program 2 on the cable-cutting-stripping machine.
+* [AC-DC wire-cutting-stripping instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
+3. 
