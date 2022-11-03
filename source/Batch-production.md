@@ -47,13 +47,14 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 <img src="../output/Batch-production-photos/Wires-orientat.-after-cut.jpg" width="250">
 4. Place the production AC-wire small box in your left side as shown in the photo.
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="250">
-
 5. Bring the small box with the quick terminals to the crimping machine's left side.
 <img src="../output/Batch-production-photos/Quick-terminals.jpg" width="250">
-6. Begin crimping, after that place its colour of the wire to its place as shown in the photo. Follow instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
+6. Begin crimping, after that place its colour of the wire to its place as shown in the photo.
+Follow instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
 7. Repeat the process also for the other colour of the short wires.
 8. Place the short wires in the designated location on the production shelf once you have completed using all the colors.
 Do not move them unless there is a cause to do so and the distribution team is informed of it. The assembly warehouse has a wayfinding map
 in the inventory software system.
-<img src="../output/Batch-production-photos/Production-Dexion.jpg" width="250"> <img src="../output/Batch-production-photos/Dedicated-shelf.jpg" width="250">
+<img src="../output/Batch-production-photos/Production-Dexion.jpg" width="250">
+<img src="../output/Batch-production-photos/Dedicated-shelf.jpg" width="250">
 9. Repeat the process for the long wires as well.
