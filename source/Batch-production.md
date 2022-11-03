@@ -2,14 +2,34 @@
 
 <br>
 
-# Assembly guide-Batch production
+# Assembly Batch production
 EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
-## Follow the [assembly Guide](C:\Users\lambr\Documents\GitHub\etcherPro-assemblyGuide) for instructions about the full assembly of an EtcherPro parts-device.
+## Contents
+
+- [EtcherPro ready to ship](#EtcherPro-ready-to-ship)
+  - [EtcherPro packed](#EtcherPro-packed)
+    - [Cable bag subassembly](#Cable-bag-subassembly)
+    - [EtcherPro in bag](#EtcherPro-in-bag)
+      - [EtcherPro device](#EtcherPro-device)
+        - [Top subassembly](#Top-subassembly)
+          - [Top shell complete](#Top-shell-complete)
+            - [Top shell with UV resin](#Top-shell-with-UV-resin)
+            - [Fan blower complete](#Fan-blower-complete)
+            - [Magnets complete](#Magnets-complete)
+          - [PCBA complete](#PCBA-complete)
+            - [CM subassembly](#CM-subassembly)
+            - [DC harness](#DC-harness)
+        - [Bottom subassembly](#Bottom-subassembly)
+          - [PSU complete](#PSU-complete)
+            - [AC harness](#AC-harness)
+
+## AC harness
+
+[BoM](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#ac-harness)
 
 #### Steps
 
-- Inspect the assembly work bench and make sure it's clean
-- Apply 20 complete Top-shell sub-assembly on the top side of the work bench
+1.
 
-<img src="./etcherPro-assemblyGuide/output/Batch-production-photos/Top-shells-step.jpg" width="250">
+2. 
