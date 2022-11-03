@@ -51,5 +51,6 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 <img src="../output/Batch-production-photos/Quick-terminals.jpg" width="250">
 6. Begin crimping, after that place its colour of the wire to its place as shown in the photo.
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="250">
+
 * Follow the crimping process instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
 7. 
