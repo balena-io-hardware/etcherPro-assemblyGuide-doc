@@ -45,9 +45,9 @@ selecting program 2 on the cable-cutting-stripping machine put it in the large b
 3. Keep the box containing the short wire of one color of wires on the workbench where the crimping machine is,
 to your right, and store the remaining boxes underneath the bench, as indicated in the photo.
 <img src="../output/Batch-production-photos/Wires-orientat.-after-cut.jpg" width="250">
-4. Place the production AC-wire small box in your right side as shown in the photo.
+4. Place the production AC-wire small box in your left side as shown in the photo.
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="250">
 
 5. Bring the small box with the quick terminals to the crimping machine's left side.
-6. Start crimping. Follow instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
+6. Begin crimping, after that place its colour of the wire to its place as shown in the photo. Follow instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
 7. Repeat the process for all wires, short and long.
