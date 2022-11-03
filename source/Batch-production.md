@@ -45,6 +45,6 @@ selecting program 2 on the cable-cutting-stripping machine put it in the large b
 3. Keep the 2 boxes of one colour of the wires in your right hand side on the work bench where the crimping machine is
 and keep the rest of the boxes under the bench as shown in the photo.
 4. Place the production AC-wire box in your left side as shown in the photo
-<img src="../output/Batch-production-photos/AC-wires-plus-term.jpg" width="250">
+<img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="250">
 
 5.
