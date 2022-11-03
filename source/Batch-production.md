@@ -34,5 +34,11 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 selecting program 1 on the cable-cutting-stripping machine and put it in the small blue box as shown in the photo.
 2. Cut as many 40cm cables (yellow, blue, brown) as specified in the production-manufacturing order by
 selecting program 2 on the cable-cutting-stripping machine put it in the large blue box as shown in the photo.
+
+|-|-|
+| Yellow AC wires | <img src="../output/Batch-production-photos/Yellow-wires-in-the-box.jpg" width="250"> |
+| Blue AC wires | <img src="../output/Batch-production-photos/Blue-wires-in-the-box.jpg" width="250"> |
+| Brown AC wires | <img src="../output/Batch-production-photos/Brown-wires-in-the-box.jpg" width="250"> |
+
 * [AC-DC wire-cutting-stripping instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
-3. 
+3.
