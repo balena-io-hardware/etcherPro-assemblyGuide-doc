@@ -35,11 +35,16 @@ selecting program 1 on the cable-cutting-stripping machine and put it in the sma
 2. Cut as many 40cm cables (yellow, blue, brown) as specified in the production-manufacturing order by
 selecting program 2 on the cable-cutting-stripping machine put it in the large blue box as shown in the photo.
 
-| Tools | Image |
+| Wires | Image |
 |-|-|
 | Yellow AC wires | <img src="../output/Batch-production-photos/Yellow-wires-in-the-box.jpg" width="250"> |
 | Blue AC wires | <img src="../output/Batch-production-photos/Blue-wires-in-the-box.jpg" width="250"> |
 | Brown AC wires | <img src="../output/Batch-production-photos/Brown-wires-in-the-box.jpg" width="250"> |
 
 * [AC-DC wire-cutting-stripping instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
-3.
+3. Keep the 2 boxes of one colour of the wires in your right hand side on the work bench where the crimping machine is
+and keep the rest of the boxes under the bench as shown in the photo.
+4. Place the production AC-wire box in your left side as shown in the photo
+<img src="../output/Batch-production-photos/AC-wires-plus-term.jpg" width="250">
+
+5.
