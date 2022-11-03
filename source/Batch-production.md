@@ -50,5 +50,4 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 5. Bring the small box with the quick terminals to the crimping machine's left side.
 <img src="../output/Batch-production-photos/Quick-terminals.jpg" width="250">
 6. Begin crimping, after that place its colour of the wire to its place as shown in the photo.
-* Follow instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
-7.
+7. 
