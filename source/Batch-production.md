@@ -26,10 +26,12 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 ## AC harness
 
+<img src="../output/Batch-production-photos/Top-shells-step.jpg" width="250">
+
 [BoM](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#ac-harness)
 
 #### Steps
 
 1.
 
-2. 
+2.
