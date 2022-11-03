@@ -35,6 +35,7 @@ selecting program 1 on the cable-cutting-stripping machine and put it in the sma
 2. Cut as many 40cm cables (yellow, blue, brown) as specified in the production-manufacturing order by
 selecting program 2 on the cable-cutting-stripping machine put it in the large blue box as shown in the photo.
 
+| Tools | Image |
 |-|-|
 | Yellow AC wires | <img src="../output/Batch-production-photos/Yellow-wires-in-the-box.jpg" width="250"> |
 | Blue AC wires | <img src="../output/Batch-production-photos/Blue-wires-in-the-box.jpg" width="250"> |
