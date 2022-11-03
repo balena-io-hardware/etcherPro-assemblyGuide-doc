@@ -54,4 +54,10 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 
 * Follow the crimping process instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
 
-7. 
+7. Repeat the process also for the other colour of the short wires.
+8. Place the short wires in the designated location on the production shelf once you have completed using all the colors.
+Do not move them unless there is a cause to do so and the warehouse manager is informed of it. The assembly warehouse has a wayfinding map
+in the inventory software system.
+<img src="../output/Batch-production-photos/Production-Dexion.jpg" width="250">
+<img src="../output/Batch-production-photos/Dedicated-shelf.jpg" width="250">
+9. Repeat the process for the long wires as well.
