@@ -81,7 +81,7 @@ in the inventory software system.
 
 9. Repeat the same process for the long wires as well.
 
-## Bottom subassembly
+## Bottom subassembly.
 
 Here is the guide for the [BoM + instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#Bottom-subassembly)
 
