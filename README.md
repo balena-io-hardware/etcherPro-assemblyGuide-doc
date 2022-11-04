@@ -165,9 +165,9 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 
 <p align="center">
-   <img src="./output/Assembly-guide-photos/instructions/AC-wires-to-the-EN.MOD.jpg" width="600">
+   <img src="./output/Assembly-guide-photos/instructions/AC-wires-to-the-en.mod.jpg" width="600">
    </p>
-   
+
 
 9. Remove the double-side tape protection film from the metal label and install it using the label jig
   - Pay attention on the orientation of the label, ideally use a magnet to help you hold the label
