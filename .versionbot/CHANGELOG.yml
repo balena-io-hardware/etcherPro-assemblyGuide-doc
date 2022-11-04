@@ -1,4 +1,14 @@
 - commits:
+    - subject: "Patch: Photo-fix"
+      hash: 78c64eaed079a29b5b10ee84f1af8c14ad141ad5
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+  version: 1.0.7
+  title: ""
+  date: 2022-11-04T15:17:06.102Z
+- commits:
     - subject: "Patch: Typo-plus-photo-fix"
       hash: 8439d7851797f3abc3b4034059da978488450ec0
       body: ""
