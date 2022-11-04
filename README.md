@@ -81,11 +81,10 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - The yellow cables should be connected to '⏚'
 - Install the 14cm cable and the 40cm on the AC side of the PSU. Leave them straight by having the stripped edge of the sort wire on the left side of the screw and other edge of the longer wire on the right side and then screw them in place.
 
- Updating-assembly-guide
 - For BOSCH GSR12V screwdriver use speed **1** - torque **5**
+- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
  Updating-assembly-guide
-- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer') 
-
+- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
   <img src="./output/Assembly-guide-photos/instructions/AC-Wires-to-the-PSU.jpg" width="600">
@@ -96,10 +95,10 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 | Tools | Image |
 |-|-|
 | File | <img src="./output/Assembly-guide-photos/Tools/File.jpg" width="250"> |
-| M3x8mm torx countersunk screw | <img src="./output/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250"> |
 | Countersink drill bit 6.3mm | <img src="./output/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250"> |
+| M3x8mm torx countersunk screw | <img src="./output/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250"> |
 | PSU & cable base jig (PSU1) | <img src="./output/Assembly-guide-photos/Jigs/PSU & cable base jig (PSU1).jpg" width="250"> |
-| Insulated flat or Phillips screwdriver | <img src="./output/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250"> |
+| Insulated flat or BOSCH screwdriver | <img src="./output/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250"> |
 | BOSCH screwdrivers | <img src="./output/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250"> |
 | Metal label jig (ML2) | <img src="./output/Assembly-guide-photos/Jigs/Metal label jig (ML2).jpg" width="250"> |
 
@@ -119,7 +118,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 #### Steps
 
-1. Inspect the top shell for any imperfections and use the file to remove any rough edges
+1. Inspect the top shell for any imperfections and use the file to remove any rough edges.
 
 2. Inspect the 4 x M3 countersunk holes of the bottom shell
   - Use the M3 countersunk screw and make sure it sits flush with the surface
@@ -165,8 +164,8 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 8. Inspect that all cables and connectors are securely fastened and properly aligned
 
 <p align="center">
-  <img src="./output/Assembly-guide-photos/instructions/AC-wires-to-the-EN.MOD.jpg" width="600">
-  </p>
+   <img src="./output/Assembly-guide-photos/instructions/AC-wires-to-the-EN.MOD.jpg" width="600">
+   </p>
 
 9. Remove the double-side tape protection film from the metal label and install it using the label jig
   - Pay attention on the orientation of the label, ideally use a magnet to help you hold the label
@@ -174,10 +173,6 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 <p align="center">
    <img src="./output/Assembly-guide-photos/instructions/Metal-label-plus-magnet.jpg" width="600">
-   </p>
-
-<p align="center">
-   < PHOTO >
    </p>
 
 ## DC harness
