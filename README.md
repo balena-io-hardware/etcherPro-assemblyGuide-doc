@@ -84,7 +84,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - For BOSCH GSR12V screwdriver use speed **1** - torque **5**
 - For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
  Updating-assembly-guide
-- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer') 
+- For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
   <img src="./output/Assembly-guide-photos/instructions/AC-Wires-to-the-PSU.jpg" width="600">
@@ -118,7 +118,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 #### Steps
 
-1. Inspect the top shell for any imperfections and use the file to remove any rough edges
+1. Inspect the top shell for any imperfections and use the file to remove any rough edges.
 
 2. Inspect the 4 x M3 countersunk holes of the bottom shell
   - Use the M3 countersunk screw and make sure it sits flush with the surface
