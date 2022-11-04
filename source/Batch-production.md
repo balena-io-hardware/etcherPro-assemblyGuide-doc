@@ -42,14 +42,14 @@ selecting program 2 on the cable-cutting-stripping machine and put it in the lar
 | Brown AC wires | <img src="../output/Batch-production-photos/Brown-wires-in-the-box.jpg" width="250"> |
 
 * For further instructions follow the [AC-DC wire-cutting-stripping guide](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
-3. Keep the box containing the short wire of one color of wires on the workbench where the crimping machine is,
+3. Keep the box containing the short wire of one colour of wires on the workbench where the crimping machine is,
 to your right, and store the remaining boxes underneath the bench, as indicated in the photo.
 
 <p align="center">
 <img src="../output/Batch-production-photos/Wires-orientat.-after-cut.jpg" width="400">
 </p>
 
-4. Place the production AC-wire small box in your left side as shown in the photo.
+4. Place the AC-wire's small box used for the assembly line in your left side as shown in the photo.
 
 <p align="center">
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="400">
@@ -61,7 +61,7 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 <img src="../output/Batch-production-photos/Quick-terminals.jpg" width="400">
 </p>
 
-6. Begin crimping, after that place its colour of the wire to its place as shown in the photo.
+6. Start to crimp the wires and each one you complete place them by colour as shown in the photo.
 
 <p align="center">
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="400">
@@ -79,7 +79,7 @@ in the inventory software system.
 <img src="../output/Batch-production-photos/Dedicated-shelf.jpg" width="400">
 </p>
 
-9. Repeat the process for the long wires as well.
+9. Repeat the same process for the long wires as well.
 
 ## Bottom subassembly
 
