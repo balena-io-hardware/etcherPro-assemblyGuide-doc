@@ -61,7 +61,7 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 <img src="../output/Batch-production-photos/Quick-terminals.jpg" width="400">
 </p>
 
-6. Start to crimp the wires and each one you complete place them by colour as shown in the photo.
+6. Start to crimp the wires and each one you complete place them by colour to the box as shown in the photo.
 
 <p align="center">
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="400">
@@ -83,7 +83,7 @@ in the inventory software system.
 
 ## Bottom subassembly
 
-[BoM + instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#Bottom-subassembly)
+Here is the guide for the [BoM + instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#Bottom-subassembly)
 
 #### Steps
 
@@ -92,4 +92,11 @@ in the inventory software system.
 3. Use one of the Bosch screwdrivers and countersink drill bit 6.3mm to countersunk
 the Ethernet and M3 screw holes. Apply speed 1 and torque 1 for the Bosch screwdriver.
 4. Apply the metal labels to the whole Batch.
-* Tip: The best way to make sure that
+* Tip: After you have finished this step to the whole batch
+the best way to make sure that the labels are attached properly take the cleaning cotton rag
+and push them to its place by wiping them off and with this way you achieve to clean them as well.
+5. Turn over the shells having the Ethernet ports facing towards to you and prepare for the next Step.
+* Tip: Each time you finish pushing in place the metal label for each shell turn it over to save time for
+the next step.
+6. Take the left and right Ethernet blind covers along with the Bosch screwdriver with the suitable tip
+and begin installation.
