@@ -1,4 +1,14 @@
 - commits:
+    - subject: "Patch: Photo-fix-2"
+      hash: 1c58341eacac4e1bf474e1aab0594ce5c270cc4d
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+  version: 1.0.8
+  title: ""
+  date: 2022-11-04T15:27:01.628Z
+- commits:
     - subject: "Patch: Photo-fix"
       hash: 78c64eaed079a29b5b10ee84f1af8c14ad141ad5
       body: ""
