@@ -55,9 +55,22 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 * Follow the crimping process instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
 
 7. Repeat the process also for the other colour of the short wires.
-8. Place the short wires in the designated location on the production shelf once you have completed using all the colors.
+8. Place the short wires in the designated location on the production shelf once you have completed using all the colours.
 Do not move them unless there is a cause to do so and the warehouse manager is informed of it. The assembly warehouse has a wayfinding map
 in the inventory software system.
 <img src="../output/Batch-production-photos/Production-Dexion.jpg" width="250">
 <img src="../output/Batch-production-photos/Dedicated-shelf.jpg" width="250">
 9. Repeat the process for the long wires as well.
+
+## Bottom subassembly
+
+[BoM + instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#Bottom-subassembly)
+
+#### Steps
+
+1. Apply 20 Bottom shells across the workbench.
+2. Use the file tool to remove any excess plastic between the gaps if any.
+3. Use one of the Bosch screwdrivers and countersink drill bit 6.3mm to countersunk
+the Ethernet and M3 screw holes. Apply speed 1 and torque 1 for the Bosch screwdriver.
+4. Apply the metal labels to the whole Batch.
+* Tip: The best way to make sure that
