@@ -197,7 +197,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
     - 2 x **24cm** - red/black (dual core), with fork terminals on one side
 
 2. Install a fork terminal to one side of each cable using the crimper
-  - Do not remove the trimmed insulation on the other side of the cables
+  - Do not remove the trimmed insulation on the other side of the cables.
 
 <p align="center">
   <img src="./output/Assembly-guide-photos/Cables/DC-cables-with-terminals.jpg" width="600">
