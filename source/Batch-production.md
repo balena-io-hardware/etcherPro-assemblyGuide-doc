@@ -26,7 +26,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 ## AC harness
 
-[BoM](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#ac-harness)
+Find the [BoM](https://github.com/balena-io-hardware/etcherPro-assemblyGuide#ac-harness) on the assembly guide.
 
 #### Steps
 
@@ -35,13 +35,15 @@ selecting program 1 on the cable-cutting-stripping machine and put it in the sma
 2. Cut as many 40cm cables (yellow, blue, brown) as specified in the production-manufacturing order by
 selecting program 2 on the cable-cutting-stripping machine and put it in the large blue box as shown in the photo.
 
+<p align="center">
 | Wires | Image |
 |-|-|
 | Yellow AC wires | <img src="../output/Batch-production-photos/Yellow-wires-in-the-box.jpg" width="250"> |
 | Blue AC wires | <img src="../output/Batch-production-photos/Blue-wires-in-the-box.jpg" width="250"> |
 | Brown AC wires | <img src="../output/Batch-production-photos/Brown-wires-in-the-box.jpg" width="250"> |
+</p>
 
-* [AC-DC wire-cutting-stripping instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
+* For further instructions follow the [AC-DC wire-cutting-stripping instructions](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
 3. Keep the box containing the short wire of one color of wires on the workbench where the crimping machine is,
 to your right, and store the remaining boxes underneath the bench, as indicated in the photo.
 <img src="../output/Batch-production-photos/Wires-orientat.-after-cut.jpg" width="250">
