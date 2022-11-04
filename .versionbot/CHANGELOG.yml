@@ -1,0 +1,80 @@
+- commits:
+    - subject: "Patch: parenthesis added"
+      hash: f8081b759872fc9c474ca46a26f3d389a9ce66d5
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+  version: 1.0.5
+  title: ""
+  date: 2022-10-20T14:38:57.153Z
+- commits:
+    - subject: "Patch: Updating photos-instructions"
+      hash: dae9252e520394544a227be025155aa02299ee40
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Updating rules for wires and toques in README.md"
+      hash: bf8e735e03e2932a6897a49c53b1b05a86edf0b9
+      body: ""
+      footer:
+        Patch: Fixed grammar at read me .md
+        patch: Fixed grammar at read me .md
+      author: Andreas Metaxas
+      nested: []
+  version: 1.0.4
+  title: ""
+  date: 2022-10-20T09:27:59.069Z
+- commits:
+    - subject: Switch from balenaCI to Flowzone
+      hash: 48f2e7b55d4bc51ae1d40e0ab4661c163cacffa7
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+        signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+      author: Heath Raftery
+      nested: []
+  version: 1.0.3
+  title: ""
+  date: 2022-10-17T14:44:44.710Z
+- version: 1.0.2
+  date: 2022-10-17T14:35:32Z
+  commits:
+    - hash: 3d49349bb3c4e9293ef1f2e0e00ba836d659a684
+      author: Andreas Metaxas
+      footers:
+        patch: Fixed grammar at read me .md
+      subject: "Patch: Updating rules for wires and toques in README.md"
+      body: null
+- version: 1.0.1
+- date: 2022-10-17T13:34:38Z
+- commits:
+    - hash: eb6d74f4f26f5e32df3a09a1cf5c6e5b0680b26d
+- commits:
+    - author: rcooke-warwick
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+- commits:
+    - subject: change repo type to generic
+- commits:
+    - body: null
+- version: 1.0.0
+- date: 2022-07-26T08:58:16Z
+- commits:
+    - hash: 26ae8ee244adba7fda797b70fa5adb52fef5bac1
+- commits:
+    - author: Konstantinos Mouzakis
+- commits:
+    - footers:
+        change-type: major
+- commits:
+    - subject: Added files
+- commits:
+    - body: null
