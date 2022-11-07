@@ -99,31 +99,17 @@ Here is the guide for the [BoM + instructions](https://github.com/balena-io-hard
 <img src="../output/Batch-production-photos/Rough-edges.jpg" width="400">
 </p>
 
-3. Use one of the Bosch screwdrivers and countersink drill bit 6.3mm to countersunk
-the Ethernet and M3 screw holes. Apply speed 1 and torque 1 for the Bosch screwdriver.
-4. Apply the metal labels to the whole Batch.
+3. Apply the metal labels to the whole Batch.
 * Tip: After you have finished applying the labels to the whole batch
 take the cleaning cotton rag, push them to its place by wiping them off and also remove by any chance fingerprints.
-5. Turn over the shells having the Ethernet ports facing towards to you and prepare for the next step.
-* Tip: Each time you finish pushing in place the metal label for each shell, turn it over to save time for
+Each time you finish pushing in place the metal label for each shell, turn it over to save time for
 the next step.
 
 <p align="center">
 <img src="../output/Batch-production-photos/Correct-side-bottom.jpg" width="400">
 </p>
 
-6. Take the left and right Ethernet blind covers along with the Bosch screwdriver with the proper tip
-and the No 2.2 6.5 screws and keep them beside you in the assembly line's cart. Begin the installation.
-The arrows on the blind covers indicate whether they should be put on the left or the right side.
-After installation leave the shells exactly as they were on the bench.
-
-<p align="center">
-<img src="../output/Batch-production-photos/Blind-covers-to-bott..jpg" width="400">
-</p>
-
-* Tip: Load also the PSUs in the cart along with the foam double sided tape so you can begin the
-installation as soon as you end installing the Ethernet blind covers.
-7. Apply the PSUs to the bottom shells according the guide's instructions. Keep the whole carton PSU's box
+4. Apply the PSUs to the bottom shells according the guide's instructions. Keep the whole carton PSU's box
 in the cart beside you having the carton flaps of the box removed as you can see in the photo below so it's easier and faster to take them
 from the box. Discard the carton box-flaps to the trash and keep the cart clean. Return the parts from the previous steps to the assembly warehouse.
 
@@ -131,19 +117,25 @@ from the box. Discard the carton box-flaps to the trash and keep the cart clean.
 <img src="../output/Batch-production-photos/Carton-box-PSUs.jpg" width="400">
 </p>
 
-8. Apply the entry modules following the assembly guide's instructions.
-9. Apply the AC wires to the PSU. Load the cart with the big and small AC for production boxes.
+5. Apply the entry modules following the assembly guide's instructions.
+6. Apply the AC wires to the PSU. Load the cart with the big and small AC for production boxes.
 Have the big box laying over along the cart's upper layer and the small box in front of it as indicated in the photo.
 Take the Bosch screwdriver with the proper tip. Take out the plastic cover on the AC side of the PSU and keep it aside.
-Leave them straight by having the stripped edge of the sort wire on the left side of the screw and other edge of the longer wire on the right side and then screw them in place.
-Start from the yellow wires and then move on to the blue and last to the brown wire following the same order, make sure that all the wires are properly
+Take out the protecting cover caps from the wires and leave them beside you on the work bench or straight into the cart.
+Leave the wires straight by having the stripped edge of the sort wire on the left side of the screw and other edge of the longer wire on the right side and then screw them in place.
+Start from the yellow wires '⏚' then move on to the blue 'N' and last to the brown 'L' wire following the same order, make sure that all the wires are properly
 secured in its place. Apply the edges with the quick terminals to the entry modules by applying first the short and then the long wires.
 The preferred and the most efficient order of applying the shortest wires to the right C13 side entry module is:
 - Yellow
 - Blue
 - Brown
+
 Follow the opposite order of applying the longest ones to the C14 left side entry module.
+After you have finished installing the wires put back the AC plastic cover to the PSU and move on to the next one.
+After you have finished the batch discard the wire caps from the work bench or from the cart.   
 
 <p align="center">
 <img src="../output/Batch-production-photos/AC-wires-to-the-cart.jpg" width="400">
 </p>
+
+## DC harness
