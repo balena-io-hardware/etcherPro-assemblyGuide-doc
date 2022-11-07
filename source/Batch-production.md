@@ -116,6 +116,11 @@ the next step.
 and the No 2.2 6.5 screws and keep them beside you in the assembly line's cart. Begin the installation.
 The arrows on the blind covers indicate whether they should be put on the left or the right side.
 After installation leave the shells exactly as they were on the bench.
+
+<p align="center">
+<img src="../output/Batch-production-photos/Blind-covers-to-bott..jpg" width="400">
+</p>
+
 * Tip: Load also the PSUs in the cart along with the foam double sided tape so you can begin the
 installation as soon as you end installing the Ethernet blind covers.
 7. Apply the PSUs to the bottom shells according the guide's instructions. Keep the whole carton PSU's box
@@ -127,11 +132,6 @@ from the box. Discard the carton box-flaps to the trash and keep the cart clean.
 </p>
 
 8. Apply the entry modules following the assembly guide's instructions.
-
-<p align="center">
-<img src="../output/Batch-production-photos/Blind-covers-to-bott..jpg" width="400">
-</p>
-
 9. Apply the AC wires to the PSU. Load the cart with the big and small AC for production boxes.
 Have the big box laying over along the cart's upper layer and the small box in front of it as indicated in the photo.
 Take the Bosch screwdriver with the proper tip. Take out the plastic cover on the AC side of the PSU and keep it aside.
