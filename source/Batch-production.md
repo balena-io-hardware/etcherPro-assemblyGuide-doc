@@ -88,6 +88,11 @@ Here is the guide for the [BoM + instructions](https://github.com/balena-io-hard
 #### Steps
 
 1. Apply 20 Bottom shells across the workbench.
+
+<p align="center">
+<img src="../output/Batch-production-photos/Bottom-shells.jpg" width="400">
+</p>
+
 2. Use the file tool to remove any excess plastic between the gaps if any.
 
 <p align="center">
