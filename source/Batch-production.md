@@ -102,12 +102,16 @@ Here is the guide for the [BoM + instructions](https://github.com/balena-io-hard
 3. Use one of the Bosch screwdrivers and countersink drill bit 6.3mm to countersunk
 the Ethernet and M3 screw holes. Apply speed 1 and torque 1 for the Bosch screwdriver.
 4. Apply the metal labels to the whole Batch.
-* Tip: After you have finished this step to the whole batch
-the best way to make sure that the labels are attached properly take the cleaning cotton rag
-and push them to its place by wiping them off removing also by any chance fingerprints.
-5. Turn over the shells having the Ethernet ports facing towards to you and prepare for the next Step.
+* Tip: After you have finished applying the labels to the whole batch
+take the cleaning cotton rag, push them to its place by wiping them off and also remove by any chance fingerprints.
+5. Turn over the shells having the Ethernet ports facing towards to you and prepare for the next step.
 * Tip: Each time you finish pushing in place the metal label for each shell, turn it over to save time for
 the next step.
+
+<p align="center">
+<img src="../output/Batch-production-photos/Correct-side-bottom.jpg" width="400">
+</p>
+
 6. Take the left and right Ethernet blind covers along with the Bosch screwdriver with the proper tip
 and the No 2.2 6.5 screws and keep them beside you in the assembly line's cart. Begin the installation.
 The arrows on the blind covers indicate whether they should be put on the left or the right side.
