@@ -194,7 +194,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 1. Cut the following length of Cables
 
-    - 2 x **24cm** - red/black (dual core), with fork terminals on one side
+    - 2 x **27cm** - red/black (dual core), with fork terminals on one side
 
 2. Install a fork terminal to one side of each cable using the crimper
   - Do not remove the trimmed insulation on the other side of the cables.
