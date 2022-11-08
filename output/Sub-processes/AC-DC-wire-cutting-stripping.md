@@ -3,11 +3,42 @@
 <br>
 
 # AC-DC cutting-stripping process
-EtcherPro v1
+EtcherPro v1.1.3
 
 ### Contents
 TBC-
 
+## Step 1: Turn on the air-compressor  
+
+<img src="./Wire cutting-stripping photos/Air-compressor.jpg" width="250">
+
+- Screw the air-valve so you can secure the air inside the air compressor
+
+<img src="./Wire cutting-stripping photos/Compressor's-air-valve.jpg" width="250">
+
+- Turn on the air compressor by pulling the on-off knob. The compressor will stop automatically
+after it's full.  
+
+<img src="./Wire cutting-stripping photos/On-off-knob.jpg" width="250">
+
+- Make sure that the air-pressure is on 2.5bar, if not adjust the pressure
+by turning the big red knob towards the + symbol if you must increase
+and towards the - symbol if you must degrease the pressure.
+
+<p align="center">
+<img src="./Wire cutting-stripping photos/Air-pressure-gauge.jpg" width="250"> <img src="./Wire cutting-stripping photos/Big-red-knob.jpg" width="250">
+</p>
+
+- After the wire cutting-stripping process is ended turn off the compressor by pushing down
+the on-off knob
+
+<img src="./Wire cutting-stripping photos/On-off-knob.jpg" width="250">
+
+- Unscrew the air-valve just half way and when the air-pressure is on zero
+unscrew it completely because if the air stays inside the compressor turns
+into water and it can be distributed inside the wire cutting-stripping machine.
+
+<img src="./Wire cutting-stripping photos/Compressor's-air-valve.jpg" width="250">
 
 ## Step 1: Producing 14cm AC cable batches
 
