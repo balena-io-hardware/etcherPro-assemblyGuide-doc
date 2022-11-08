@@ -61,7 +61,10 @@ to your right, and store the remaining boxes underneath the bench, as indicated 
 <img src="../output/Batch-production-photos/Quick-terminals.jpg" width="400">
 </p>
 
-6. Start to crimp the wires and each one you complete place them by colour to the box as shown in the photo.
+6. Start crimping the wires by stripping one of the two sides the length is the same
+and each one you complete place them by colour to the box as shown in the photo.
+
+* Tip: Keep a small trash can beside you so you can discard immediately the protecting caps.
 
 <p align="center">
 <img src="../output/Batch-production-photos/AC-wires-plus-term..jpg" width="400">
@@ -139,3 +142,25 @@ After you have finished the batch discard the wire caps from the work bench or f
 </p>
 
 ## DC harness
+
+####Steps
+
+* For further instructions follow the [AC-DC wire-cutting-stripping guide](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/AC-DC-wire-cutting-stripping.md)
+
+* Follow the crimping process instructions [here](https://github.com/balena-io-hardware/etcherPro-assemblyGuide/blob/master/output/Sub-processes/Cable-crimping.md)
+
+
+1. Cut as many 27cm DC wires as specified in the production-manufacturing order by
+selecting program 3 on the cable-cutting-stripping machine and put it in the small blue box as shown in the photo.
+
+<p align="center">
+<img src="../output/Batch-production-photos/DC-wires-after-cut.jpg" width="400">
+</p>
+
+2. Keep the box containing the DC wires to your right side of the crimping machine on the workbench.
+Bring over the production box and keep it to your left.
+Bring the small box containing the quick terminals and keep it to the right side of the crimping machine on the work bench.
+
+3. Start crimping using the fork terminals by stripping the 7mm side of the wires.
+Each one you complete place them by colour to the box as shown in the photo.
+After you have finished store the box to the production shelf.
