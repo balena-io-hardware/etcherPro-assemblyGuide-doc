@@ -40,7 +40,7 @@ into water and it can be distributed inside the wire cutting-stripping machine.
 
 <img src="./Wire cutting-stripping photos/Compressor's-air-valve.jpg" width="250">
 
-## Step 1: Producing 14cm AC cable batches
+## Step 2: Producing 14cm AC cable batches
 
 - Turn on the wire cutter
 <img src="./Wire cutting-stripping photos/power-on.jpg" width="250">
@@ -48,19 +48,30 @@ into water and it can be distributed inside the wire cutting-stripping machine.
 - Turn the Wire cutters’ handles to position UP
 <img src="./Wire cutting-stripping photos/up-position.jpg" width="250">
 
-- Place the brown 2,5mm2 ac cable into the wire cutter
-<img src="./Wire cutting-stripping photos/ac-cable-right-position.jpg" width="250">
+- Place the brown reel ac cable in the PVC construction following
+the instructions as you can see in the photos.
+
+<p align="center">
+<img src="./Wire cutting-stripping photos/Constr.-diconstructed.jpg" width="250"> <img src="./Wire cutting-stripping photos/Reel-placed.jpg" width="250">
+
+<img src="./Wire cutting-stripping photos/sealed.jpg" width="250">
+</p>
+
+-After pulling the edge of the wire from the lower side of the reel as shown in the photo,
+insert the brown 2,5mm2 ac cable into the wire cutter. Just a 1- to 1.5-cm-long tip of the wire should be left at the end.
+<img src="./Wire cutting-stripping photos/Ready-for-use.jpg" width="250">
 
 - Turn the Wire cutters’ handles to position ROLL
 <img src="./Wire cutting-stripping photos/roll-position.jpg" width="250">
 
 - Choose program number 1
-<img src="./Wire cutting-stripping photos/screen.jpg" width="250">
+<img src="./Wire cutting-stripping photos/Programm-1.jpg" width="250">
 
 - When the cable is in the right place press RUN
 <img src="./Wire cutting-stripping photos/keyboard.jpg" width="250">
 
 - 100 batch will be produced and you will hear the beep sound
+- Press confirm
 - Place the items in the storage box
 <img src="./Wire cutting-stripping photos/storage-boxes.jpg" width="250">
 
@@ -68,7 +79,7 @@ into water and it can be distributed inside the wire cutting-stripping machine.
 
 
 
-## Step 2: Producing 40cm AC cable batches
+## Step 3: Producing 40cm AC cable batches
 
 - Turn the Wire cutters’ handles to position UP
 - Place the brown 2,5mm2 AC cable into the wire cutter
@@ -78,18 +89,22 @@ into water and it can be distributed inside the wire cutting-stripping machine.
 
 - When the cable is in the right place press RUN
 - 100 batch will be produced and you will hear the beep sound
+- Press confirm
 - Place the items in the storage box
 - Repeat the process for the blue and yellow cables.
 
 
-## Step 3: Producing 24cm DC cable batches
+## Step 4: Producing 27cm DC cable batches
 
 - Turn the Wire cutters’ handles to position UP
-- Place the black/red 1,5mm2 DC cable into the wire cutter
+- Place the black 1,5mm2 DC cable into the wire cutter
 - Turn the Wire cutters’ handles to position ROLL
 - Choose program number 3
+
 <img src="./Wire cutting-stripping photos/program-3.jpg" width="250">
 
 - When the cable is in the right place press RUN
 - 100 batch will be produced and you will hear the beep sound
+- Press confirm
 - Place the items in the storage box
+- Repeat the process for the red 1,5mm2 DC cable
