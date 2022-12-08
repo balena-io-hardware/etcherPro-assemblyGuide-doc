@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update Batch-production.md
+      hash: a61225633c74b2ef56cb68a15d799bea3d77fbd3
+      body: |
+        Update batch production assembly guide
+      footer:
+        Change-type: Major
+        change-type: Major
+      author: Andreas Metaxas
+      nested: []
+  version: 2.0.0
+  title: ""
+  date: 2022-12-08T11:05:26.551Z
+- commits:
     - subject: "Patch: Update-DC-wires-photos-plus-text"
       hash: 4940a3777f519018caf4c6bf0bcaa42ae366d14b
       body: ""
