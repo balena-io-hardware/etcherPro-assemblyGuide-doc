@@ -1,4 +1,62 @@
 - commits:
+    - subject: "Major: Batch-production-guide-all-guides-updated"
+      hash: 92b2039aa9f3043a2ac63e52b90eaaf7b5a8ebd4
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Update-AC-DC-photos-and-text"
+      hash: 7e4680979eb7821e9c0aaf40501248f818ed2997
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Update-photos-adding-steps-to-the-AC-Guide"
+      hash: 9286815a9b4dccd1ecf5979f24953bb94802d1c7
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Update-photo-correct-text"
+      hash: fd545a5d8c15b11f85b981dd92d6cf3eb4dfd65b
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Updating-the-guide"
+      hash: 47b7361006decd1d9892376842e957430cd5cd08
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: update-guide"
+      hash: 727f8c068ff2ee72e5504b12865797b32b041f0b
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "Patch: Update photos"
+      hash: 23d29530ebcfeb64c8b6befd30d2554f18605253
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+    - subject: "patch: Updated batch guide"
+      hash: 193f8bf1fe48628059e7d4804dba6f19b50a1d7e
+      body: ""
+      footer: {}
+      author: konmouz
+      nested: []
+    - subject: "Major: Creating-new-assembly-guide-for-batch-production"
+      hash: 80342ae7ccb59cd272d5e8b25a582da4198b6512
+      body: ""
+      footer: {}
+      author: Andreas Metaxas
+      nested: []
+  version: 2.0.0
+  title: ""
+  date: 2022-12-08T10:41:33.881Z
+- commits:
     - subject: "Patch: Update-DC-wires-photos-plus-text"
       hash: 4940a3777f519018caf4c6bf0bcaa42ae366d14b
       body: ""
