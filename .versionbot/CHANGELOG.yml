@@ -1,4 +1,16 @@
 - commits:
+    - subject: Add cloudflare website
+      hash: e1e2d9ecf01952f98de77d1913bbf5e9895f4101
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Anuj Deshpande
+      nested: []
+  version: 1.1.0
+  title: ""
+  date: 2023-01-23T09:55:46.332Z
+- commits:
     - subject: "Patch: Update-DC-wires-photos-plus-text"
       hash: 4940a3777f519018caf4c6bf0bcaa42ae366d14b
       body: ""
