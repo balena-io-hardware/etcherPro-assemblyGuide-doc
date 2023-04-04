@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update Batch-production.md
+      hash: b6d26c625c29f68946ff688bf88940eae4a442d8
+      body: |
+        Update batch production assembly guide
+      footer:
+        Change-type: Major
+        change-type: Major
+      author: Andreas Metaxas
+      nested: []
+  version: 2.0.0
+  title: ""
+  date: 2023-04-04T09:03:09.430Z
+- commits:
     - subject: Add cloudflare website
       hash: e1e2d9ecf01952f98de77d1913bbf5e9895f4101
       body: ""
