@@ -95,7 +95,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
-  <img src="./output/Assembly-guide-photos/parts/PSU-complete.jpg" width="600" />
+  <img src=".docs/images/Assembly-guide-photos/parts/PSU-complete.jpg" width="600" />
 </p>
 
 ## Bottom subassembly
