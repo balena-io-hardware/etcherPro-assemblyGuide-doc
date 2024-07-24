@@ -102,7 +102,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 | Tools | Image |
 |-|-|
-| File | <img src="./output/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
+| File | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/konmouz-patch-2/docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
 | M3x8mm torx countersunk screw | <img src="./output/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250" /> |
 | Countersink drill bit 6.3mm | <img src="./output/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
 | PSU & cable base jig (PSU1) | <img src="./output/Assembly-guide-photos/Jigs/PSU & cable base jig (PSU1).jpg" width="250" /> |
