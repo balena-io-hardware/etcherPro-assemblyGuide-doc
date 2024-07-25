@@ -109,6 +109,12 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 | Insulated flat or Phillips screwdriver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/phillips-screwdriver.jpg" width="250" /> <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
 | BOSCH screwdrivers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
 | Metal label jig (ML2) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
+| M3x8mm torx countersunk screw | <img src=".https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/parts/M3x8mm%20torx%20screw.jpg" width="250" /> |
+| Countersink drill bit 6.3mm | <img src="./output/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
+| PSU & cable base jig (PSU1) | <img src="./output/Assembly-guide-photos/Jigs/PSU & cable base jig (PSU1).jpg" width="250" /> |
+| Insulated flat or Phillips screwdriver | <img src="./output/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
+| BOSCH screwdrivers | <img src="./output/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
+| Metal label jig (ML2) | <img src="./output/Assembly-guide-photos/Jigs/Metal label jig (ML2).jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
