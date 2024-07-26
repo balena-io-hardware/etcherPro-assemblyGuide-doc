@@ -104,17 +104,14 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 |-|-|
 | File | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
 | M3x8mm torx countersunk screw | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/parts/M3x8mm%20torx%20screw.jpg" width="250" /> |
-| Countersink drill bit 6.3mm | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
 | PSU & cable base jig (PSU1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Jigs/PSU%20%26%20cable%20base%20jig%20(PSU1).jpg" width="250" /> |
 | Insulated flat or Phillips screwdriver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/phillips-screwdriver.jpg" width="250" /> <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
 | BOSCH screwdrivers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
 | Metal label jig (ML2) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
-| M3x8mm torx countersunk screw | <img src=".https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/parts/M3x8mm%20torx%20screw.jpg" width="250" /> |
-| Countersink drill bit 6.3mm | <img src="./output/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
-| PSU & cable base jig (PSU1) | <img src="./output/Assembly-guide-photos/Jigs/PSU & cable base jig (PSU1).jpg" width="250" /> |
-| Insulated flat or Phillips screwdriver | <img src="./output/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
-| BOSCH screwdrivers | <img src="./output/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
-| Metal label jig (ML2) | <img src="./output/Assembly-guide-photos/Jigs/Metal label jig (ML2).jpg" width="250" /> |
+| Countersink drill bit 6.3mm | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
+| PSU & cable base jig (PSU1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Jigs/PSU%20%26%20cable%20base%20jig%20(PSU1).jpg" width="250" /> |
+| Insulated flat or Phillips screwdriver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
+| Metal label jig (ML2) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
@@ -132,7 +129,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 #### Steps
 
-1. Inspect the top shell for any imperfections and use the file to remove any rough edges
+1. Inspect the bottom shell for any imperfections and use the file to remove any rough edges
 
 2. Inspect the 4 x M3 countersunk holes of the bottom shell
   - Use the M3 countersunk screw and make sure it sits flush with the surface
@@ -182,7 +179,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   </p>
 
 9. Remove the double-side tape protection film from the metal label and install it using the label jig
-  - Pay attention on the orientation of the label, ideally use a magnet to help you hold the label
+  - Pay attention to the orientation of the label, ideally use a magnet to help you hold the label
   - Make sure the metal label is securely fastened in place
 
 <p align="center">
