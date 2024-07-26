@@ -33,9 +33,9 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 | Tools | Image |
 |-|-|
-| Cable cutter-stripper | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg?raw=true" width="250" /> |
-| Cable crimper | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/Cable-crimping-photos/Crimping-machine.jpg?raw=true" width="250" /> |
-| Manual cable cutter | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Assembly-guide-photos/Tools/cable-cutter.jpg?raw=true" width="250" /> |
+| Cable cutter-stripper | <img src="./docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg?raw=true" width="250" /> |
+| Cable crimper | <img src="./docs/images/Sub-processes/Cable-crimping-photos/Crimping-machine.jpg?raw=true" width="250" /> |
+| Manual cable cutter | <img src="./docs/images/Assembly-guide-photos/Tools/cable-cutter.jpg?raw=true" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
