@@ -311,7 +311,7 @@ If the problem continues, please set it away for troubleshooting and repair.
   - Before you put the CM into position, it should be at approximately 20-degree angle. Then push it in place.
 
   <p align="center">
-    <img src="../docs/images/Assembly-guide-photos/instructions/Properly-algned-CM.jpg" width="600" />
+    <img src="./docs/images/Assembly-guide-photos/instructions/Properly-algned-CM.jpg" width="600" />
   </p>
 
 
@@ -613,7 +613,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 |-|-|-|
 | [Top subassembly](#Top-subassembly) | 1 | <img src="./docs/images/Assembly-guide-photos/instructions/mainboard-inside-top-shell.jpg" width="250" /> |
 | [Bottom subassembly](#Bottom-subassembly) | 1 | <img src="./docs/images/Assembly-guide-photos/instructions/Bottom-plus-PSU-mounted.jpg" width="250" /> |
-| M3x8mm torx countersunk screw | 4 | <img src="./output/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250" /> |
+| M3x8mm torx countersunk screw | 4 | <img src="./docs/images/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250" /> |
 
 #### Steps
 
