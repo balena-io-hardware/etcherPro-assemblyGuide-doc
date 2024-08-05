@@ -1,4 +1,16 @@
 - commits:
+    - subject: Fix links
+      hash: 544cee22bed890cf01fc2c75d7f608507e6f5f35
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Konstantinos Mouzakis
+      nested: []
+  version: 2.0.1
+  title: ""
+  date: 2024-08-05T09:06:30.483Z
+- commits:
     - subject: Update Batch-production.md
       hash: b6d26c625c29f68946ff688bf88940eae4a442d8
       body: |
