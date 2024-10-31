@@ -1,5 +1,5 @@
 ---
-title: Assembly Guide
+title: Assembly Guide 
 ---
 
 ![balenaEtcherPro_logo_dark](https://user-images.githubusercontent.com/15323961/89873050-c3451400-dbb1-11ea-8330-3029ea6f75f8.png)
@@ -30,7 +30,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
             - [AC harness](#AC-harness)
 
 ## AC harness
-
+ 
 | Tools | Image |
 |-|-|
 | Cable cutter-stripper | <img src="./docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg?raw=true" width="250" /> |
