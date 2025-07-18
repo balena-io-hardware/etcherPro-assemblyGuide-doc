@@ -9,28 +9,28 @@ EtcherPro v1
 ## Step 1 Tools and materials
 
 - Soft EMC protection plastic material
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Protective-material.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Protective-material.jpg" width="250"/>
 
 - UV-curing station
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Curing-station.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Curing-station.jpg" width="250"/>
 
 - Bottle with liquid resin
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Resin-bottle.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Resin-bottle.jpg" width="250"/>
 
 - Protective goggles
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/protection-goggles.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/protection-goggles.jpg" width="250"/>
 
 - Protective gloves
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/Painting-process-photos/disposable-gloves.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/Painting-process-photos/disposable-gloves.jpg" width="250"/>
 
 - Syringe and needle
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Syringe-plus-needle.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Syringe-plus-needle.jpg" width="250"/>
 
 - Paper towel
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Paper-towel.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Paper-towel.jpg" width="250"/>
 
 - Thick cardboard
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Cardboard.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Cardboard.jpg" width="250"/>
 
 
 ## Step 2 Prepare for the UV-curing process
@@ -42,10 +42,10 @@ EtcherPro v1
 - Suck resin with the syringe without the needle being installed, ¼ full
 - Shield instantly the resin bottle
 - Install the needle by pointing upwards
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Needle-installation.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Needle-installation.jpg" width="250"/>
 
 - Hold the syringe upwards and press the plunger slowly to remove excess air always covered by a paper towel
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Remove-excess-air.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Remove-excess-air.jpg" width="250"/>
 
 - Be sure that your protective gloves are clean without any remaining resin on them to avoid messing up the Top-shell
 
@@ -55,15 +55,15 @@ EtcherPro v1
 
 - Place the top shell upside down with the slots facing away from you
 - Place the cardboard underneath the slots
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Cardboard-under-the-shell.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Cardboard-under-the-shell.jpg" width="250"/>
 
 - Direct the needle close and above the hole and press the plunger extremely gently and slowly a tiny drop is enough. Be careful because the needle may be dripping in just holding it downwards and sometimes the resin is being applied from hole to hole without even the need to press the plunger. The holes should be perfectly clear, if plastic peels blocks the holes remove them using a tweezers  
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Proper-hight-applying-resin.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Proper-hight-applying-resin.jpg" width="250"/>
 
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Properly%20applied%20resin.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Properly%20applied%20resin.jpg" width="250"/>
 
 - After the resin is being applied to 16 holes place the top shell halfway through to the curing station making sure that both LED lamps are pointing to the resin
-<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/blob/master/docs/images/Sub-processes/UV-curing-photos/Curing.jpg?raw=true" width="250"/>
+<img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Curing.jpg" width="250"/>
 
 - The time required to apply 16 drops of resin is enough to cure the resin on the previous shell.  You can use a dry needle to gently push the cured resin to make sure it feels solid and therefore is properly cured.
 - Repeat process
