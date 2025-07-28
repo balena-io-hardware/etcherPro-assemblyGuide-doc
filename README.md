@@ -33,16 +33,16 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 | Tools | Image |
 |-|-|
-| Cable cutter-stripper | <img src="./docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg?raw=true" width="250" /> |
-| Cable crimper | <img src="./docs/images/Sub-processes/Cable-crimping-photos/Crimping-machine.jpg?raw=true" width="250" /> |
-| Manual cable cutter | <img src="./docs/images/Assembly-guide-photos/Tools/cable-cutter.jpg?raw=true" width="250" /> |
+| Cable cutter-stripper | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg" width="250" /> |
+| Cable crimper | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/Cable-crimping-photos/Crimping-machine.jpg" width="250" /> |
+| Manual cable cutter | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/cable-cutter.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| AWG14 - 2.5mm² brown insulated single core cable spool | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/brown-single-core.jpg?raw=true" width="250" /> |
-| AWG14 - 2.5mm² blue insulated single core cable spool | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/blue-single-core.jpg?raw=true" width="250" /> |
-| AWG14 - 2.5mm² yellow insulated single core cable spool | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/yellow-single-core.jpg?raw=true" width="250" /> |
-| Insulated blue quick connect terminals 6.4x0.8mm for 16-14AWG/ 1.5-2.5mm² | 6 | <img src="./docs/images/Assembly-guide-photos/parts/blue-quick-connect.jpg?raw=true" width="250" /> |
+| AWG14 - 2.5mm² brown insulated single core cable spool | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/brown-single-core.jpg" width="250" /> |
+| AWG14 - 2.5mm² blue insulated single core cable spool | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/blue-single-core.jpg" width="250" /> |
+| AWG14 - 2.5mm² yellow insulated single core cable spool | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/yellow-single-core.jpg" width="250" /> |
+| Insulated blue quick connect terminals 6.4x0.8mm for 16-14AWG/ 1.5-2.5mm² | 6 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/blue-quick-connect.jpg" width="250" /> |
 
 #### Steps
 
@@ -64,16 +64,16 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   - Do not remove the trimmed insulation on the other side of the cables
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/Cables/AC-cables-plus-terminals.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/AC-cables-plus-terminals.jpg" width="600" />
 </p>
 
 ## PSU complete
 
 | Parts | Qty | Image |
 |-|-|-|
-| [AC harness](#AC-harness) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/AC-cables-plus-terminals.jpg?raw=true" width="250" /> |
-| Meanwell UHP-200A-5 | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Meanwell%20PSU.jpg?raw=true" width="250" /> |
-| 3M VHB 5952 double-sided foam pads | 2 | <img src="./docs/images/Assembly-guide-photos/parts/3m-double-tape.jpg?raw=true" width="250" /> |
+| [AC harness](#AC-harness) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/AC-cables-plus-terminals.jpg" width="250" /> |
+| Meanwell UHP-200A-5 | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Meanwell%20PSU.jpg" width="250" /> |
+| 3M VHB 5952 double-sided foam pads | 2 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/3m-double-tape.jpg" width="250" /> |
 
 #### Steps
 
@@ -81,7 +81,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   - Do not remove the red foam pad cover
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Power-supply-pads.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Power-supply-pads.jpg" width="600" />
 </p>
 
 2. Install the AC cables to the power supply
@@ -95,37 +95,37 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 - For BOSCH GSB120 screwdriver use speed **1** - torque **3** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/parts/PSU-complete.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/PSU-complete.jpg" width="600" />
 </p>
 
 ## Bottom subassembly
 
 | Tools | Image |
 |-|-|
-| File | <img src="./docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
-| M3x8mm torx countersunk screw | <img src="./docs/images/Assembly-guide-photos/parts/M3x8mm%20torx%20screw.jpg" width="250" /> |
-| PSU & cable base jig (PSU1) | <img src="./docs/images/Assembly-guide-photos/Jigs/PSU%20%26%20cable%20base%20jig%20(PSU1).jpg" width="250" /> |
-| Insulated flat or Phillips screwdriver | <img src="./docs/images/Assembly-guide-photos/Tools/phillips-screwdriver.jpg" width="250" /> <img src="./docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
-| BOSCH screwdrivers | <img src="./docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
-| Metal label jig (ML2) | <img src="./docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
-| Countersink drill bit 6.3mm | <img src="./docs/images/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
-| PSU & cable base jig (PSU1) | <img src="./docs/images/Assembly-guide-photos/Jigs/PSU%20%26%20cable%20base%20jig%20(PSU1).jpg" width="250" /> |
-| Insulated flat or Phillips screwdriver | <img src="./docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
-| Metal label jig (ML2) | <img src="./docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
+| File | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
+| M3x8mm torx countersunk screw | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/M3x8mm%20torx%20screw.jpg" width="250" /> |
+| PSU & cable base jig (PSU1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/PSU%20%26%20cable%20base%20jig%20(PSU1).jpg" width="250" /> |
+| Insulated flat or Phillips screwdriver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/phillips-screwdriver.jpg" width="250" /> <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
+| BOSCH screwdrivers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
+| Metal label jig (ML2) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
+| Countersink drill bit 6.3mm | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/countersink-6.3.jpg" width="250" /> |
+| PSU & cable base jig (PSU1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/PSU%20%26%20cable%20base%20jig%20(PSU1).jpg" width="250" /> |
+| Insulated flat or Phillips screwdriver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/flat-screwdriver.jpg" width="250" /> |
+| Metal label jig (ML2) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/Metal%20label%20jig%20(ML2).jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| [PSU complete](#PSU-complete) | 1 | <img src="./docs/images/Assembly-guide-photos/parts/PSU-complete.jpg" width="250" /> |
-| Bottom shell | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Bottom%20shell.jpg" width="250" /> |
-| Power entry module C14 | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Entry%20module%20C14.PNG" width="250" /> |
-| Power entry module C13 | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Entry%20module%20C13.PNG" width="250" /> |
-| Long brown cable with terminals (section 1.1) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/long-brown-cable-with-terminals.jpg" width="250" /> |
-| Long blue cable with terminals (section 1.1) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/long-blue-cable-with-terminals.jpg" width="250" /> |
-| Long yellow cable with terminals (section 1.1) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/long-yellow-cable-with-terminals.jpg" width="250" /> |
-| Short brown cable with terminals (section 1.1) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/short-brown-cable-with-terminals.jpg" width="250" /> |
-| Short blue cable with terminals (section 1.1) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/short-blue-cable-with-terminals.jpg" width="250" /> |
-| Short yellow cable with terminals (section 1.1) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/short-yellow-cable-with-terminals.jpg" width="250" /> |
-| Metal label | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Metal%20label.jpg" width="250" /> |
+| [PSU complete](#PSU-complete) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/PSU-complete.jpg" width="250" /> |
+| Bottom shell | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Bottom%20shell.jpg" width="250" /> |
+| Power entry module C14 | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Entry%20module%20C14.PNG" width="250" /> |
+| Power entry module C13 | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Entry%20module%20C13.PNG" width="250" /> |
+| Long brown cable with terminals (section 1.1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/long-brown-cable-with-terminals.jpg" width="250" /> |
+| Long blue cable with terminals (section 1.1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/long-blue-cable-with-terminals.jpg" width="250" /> |
+| Long yellow cable with terminals (section 1.1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/long-yellow-cable-with-terminals.jpg" width="250" /> |
+| Short brown cable with terminals (section 1.1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/short-brown-cable-with-terminals.jpg" width="250" /> |
+| Short blue cable with terminals (section 1.1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/short-blue-cable-with-terminals.jpg" width="250" /> |
+| Short yellow cable with terminals (section 1.1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/short-yellow-cable-with-terminals.jpg" width="250" /> |
+| Metal label | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Metal%20label.jpg" width="250" /> |
 
 #### Steps
 
@@ -137,11 +137,11 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   - Use a vacuum cleaner to remove any plastic debris
 
 <p align="center">
-   <img src="./docs/images/Assembly-guide-photos/instructions/M3-countersunk-holes.jpg?raw=true" width="600" />
+   <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/M3-countersunk-holes.jpg" width="600" />
    </p>
 
 <p align="center">
-   <img src="./docs/images/Assembly-guide-photos/instructions/M3-sits-flush.jpg?raw=true" width="600" />
+   <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/M3-sits-flush.jpg" width="600" />
    </p>
 
 3. Install the power supply using the PSU jig.
@@ -149,7 +149,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   - Make sure the power supply is securely fastened in place via the double-sided tape
 
   <p align="center">
-     <img src="./docs/images/Assembly-guide-photos/instructions/PSU-jig.jpg?raw=true" width="600" />
+     <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/PSU-jig.jpg" width="600" />
      </p>
 
 4. There are two rectangular openings for the entry modules, one on the left-hand side of the bottom shell and one on the right-hand side.
@@ -175,7 +175,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 8. Inspect that all cables and connectors are securely fastened and properly aligned
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Bottom-plus-PSU-mounted.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Bottom-plus-PSU-mounted.jpg" width="600" />
   </p>
 
 9. Remove the double-side tape protection film from the metal label and install it using the label jig
@@ -183,7 +183,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   - Make sure the metal label is securely fastened in place
 
 <p align="center">
-   <img src="./docs/images/Assembly-guide-photos/instructions/Metal-label-plus-magnet.jpg?raw=true" width="600" />
+   <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Metal-label-plus-magnet.jpg" width="600" />
    </p>
 
 
@@ -195,14 +195,14 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 
 | Tools | Image |
 |-|-|
-| Cable cutter-stripper | <img src="./docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg?raw=true" width="250" /> |
-| Cable crimper | <img src="./docs/images/Sub-processes/Cable-crimping-photos/Crimping-machine.jpg?raw=true" width="250" /> |
-| Manual cable cutter | <img src="./docs/images/Assembly-guide-photos/Tools/cable-cutter.jpg?raw=true" width="250" /> |
+| Cable cutter-stripper | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/Wire%20cutting-stripping%20photos/Cable-cutter-stripper.jpg" width="250" /> |
+| Cable crimper | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/Cable-crimping-photos/Crimping-machine.jpg" width="250" /> |
+| Manual cable cutter | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/cable-cutter.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| AWG16 - 1.5mm² red and black insulated cable spool | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/red-black-dual-core.jpg" width="250" /> |
-| Insulated blue fork M4/4.3mm for 16-14AWG/ 1.5-2.5mm²| 7 | <img src="./docs/images/Assembly-guide-photos/parts/Insulated%20fork.jpg" width="250" /> |
+| AWG16 - 1.5mm² red and black insulated cable spool | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/red-black-dual-core.jpg" width="250" /> |
+| Insulated blue fork M4/4.3mm for 16-14AWG/ 1.5-2.5mm²| 7 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Insulated%20fork.jpg" width="250" /> |
 
 #### Steps
 
@@ -214,24 +214,24 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
   - Do not remove the trimmed insulation on the other side of the cables
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/Cables/DC-cables-with-terminals.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/DC-cables-with-terminals.jpg" width="600" />
 </p>
 
 ## CM subassembly
 
 | Tools | Image |
 |-|-|
-| BETA screwdriver | <img src="./docs/images/Assembly-guide-photos/Tools/Beta-screwdriver.jpg" width="250" /> |
-| File | <img src="./docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
+| BETA screwdriver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Beta-screwdriver.jpg" width="250" /> |
+| File | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| Compulab iMX8 compute module | 1 | <img src="./docs/images/Assembly-guide-photos/boards/Combulab-iMX8%20compute%20module.jpg?raw=true" width="250" /> |
-| Heatsink | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Heatsink.png?raw=true" width="250" /> |
-| M2x3.5mm phillips countersunk screw	 | 2 | <img src="./docs/images/Assembly-guide-photos/parts/M2x3.5mm%20phillips%20screw.png?raw=true" width="250" /> |
-| Thermal compound paste | 1 | <img src="./docs/images/Assembly-guide-photos/parts/thermal-paste.png?raw=true" width="250" /> |
-| Flexible antenna | 2 | <img src="./docs/images/Assembly-guide-photos/parts/Flexible%20antenna.jpg?raw=true" width="250" /> |
-| Antenna connector clip | 1 | <img src="./docs/images/Assembly-guide-photos/Jigs/Antenna%20connector%20jig.jpg?raw=true" width="250" /> |
+| Compulab iMX8 compute module | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/boards/Combulab-iMX8%20compute%20module.jpg" width="250" /> |
+| Heatsink | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Heatsink.png" width="250" /> |
+| M2x3.5mm phillips countersunk screw	 | 2 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/M2x3.5mm%20phillips%20screw.png" width="250" /> |
+| Thermal compound paste | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/thermal-paste.png" width="250" /> |
+| Flexible antenna | 2 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Flexible%20antenna.jpg" width="250" /> |
+| Antenna connector clip | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/Antenna%20connector%20jig.jpg" width="250" /> |
 
 #### Steps
 
@@ -240,7 +240,7 @@ EtcherPro [v1.1.3](https://github.com/balena-io-hardware/etcherPro/tree/v1.1.3)
 3. Place a heatsink on top with the fins pointing upwards. Align the screw holes making sure to place the hole with the single fins closer to the compute modules pin and the hole with the double away from the pins
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/heatsink-orientation.png?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/heatsink-orientation.png" width="600" />
 </p>
 
 4. Install the 2 screws and tighten them very carefully
@@ -251,13 +251,13 @@ both of the connectors are perfectly aligned to prevent damage them.
 7. Carefully insert the antenna connector clip to secure the w.FL connectors in place
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/parts/CM-sub-assembly.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/CM-sub-assembly.jpg" width="600" />
 </p>
 
 8. Flash the CMs after assembly using the Flashing board.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Flashboard.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Flashboard.jpg" width="600" />
 </p>
 
 - Make sure that the power is off
@@ -265,7 +265,7 @@ both of the connectors are perfectly aligned to prevent damage them.
 - Power on the board
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Power-on-the-flashboard.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Power-on-the-flashboard.jpg" width="600" />
 </p>
 
 
@@ -278,16 +278,16 @@ If the problem continues, please set it away for troubleshooting and repair.
 
 | Tools | Image |
 |-|-|
-| BOSCH screwdrivers  | <img src="./docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
-| 5mm HEX socket driver  | <img src="./docs/images/Assembly-guide-photos/Tools/5mm-Hex-nut.jpg" width="250" /> |
+| BOSCH screwdrivers  | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
+| 5mm HEX socket driver  | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/5mm-Hex-nut.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| [DC harness](#DC-harness) | 1 | <img src="./docs/images/Assembly-guide-photos/Cables/DC-cables-with-terminals.jpg" width="250" /> |
-| [CM subassembly](#CM-subassembly) | 1 | <img src="./docs/images/Assembly-guide-photos/parts/CM-sub-assembly.jpg" width="250" /> |
-| EtcherPro mainboard | 1 | <img src="./docs/images/Assembly-guide-photos/boards/EtcherPro%20mainboard%20v2.3.4.jpg" width="250" /> |
-| USB_to_SD_Slot v1.1 | 16 | <img src="./docs/images/Assembly-guide-photos/boards/USB-to%20SD%20slot.jpg" width="250" /> |
-| M3 female to male 20mm standoffs | 2 | <img src="./docs/images/Assembly-guide-photos/parts/M3-standoff-20mm.jpg" width="250" /> |
+| [DC harness](#DC-harness) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Cables/DC-cables-with-terminals.jpg" width="250" /> |
+| [CM subassembly](#CM-subassembly) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/CM-sub-assembly.jpg" width="250" /> |
+| EtcherPro mainboard | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/boards/EtcherPro%20mainboard%20v2.3.4.jpg" width="250" /> |
+| USB_to_SD_Slot v1.1 | 16 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/boards/USB-to%20SD%20slot.jpg" width="250" /> |
+| M3 female to male 20mm standoffs | 2 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/M3-standoff-20mm.jpg" width="250" /> |
 
 #### Steps
 
@@ -302,7 +302,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 - For BOSCH GSB120 screwdriver use speed **1** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/boards/DC-cables-installed.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/boards/DC-cables-installed.jpg" width="600" />
 </p>
 
 
@@ -311,7 +311,7 @@ If the problem continues, please set it away for troubleshooting and repair.
   - Before you put the CM into position, it should be at approximately 20-degree angle. Then push it in place.
 
   <p align="center">
-    <img src="./docs/images/Assembly-guide-photos/instructions/Properly-algned-CM.jpg" width="600" />
+    <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Properly-algned-CM.jpg" width="600" />
   </p>
 
 
@@ -331,7 +331,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 - For BOSCH GSB120 screwdriver use speed **2** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/boards/Mainboard-subassembly.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/boards/Mainboard-subassembly.jpg" width="600" />
 </p>
 
 
@@ -339,20 +339,20 @@ If the problem continues, please set it away for troubleshooting and repair.
 
 | Tools | Image |
 |-|-|
-| Tweezers | <img src="./docs/images/Assembly-guide-photos/Tools/tweezers.jpg" width="250" /> |
-| Lancet | <img src="./docs/images/Assembly-guide-photos/Tools/Lancet.jpg" width="250" /> |
+| Tweezers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/tweezers.jpg" width="250" /> |
+| Lancet | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Lancet.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| 25x5x5mm N52 Neodymium magnets | 2 | <img src="./docs/images/Assembly-guide-photos/parts/N52%20Neodymium%20magnet.jpg?raw=true" width="250" /> |
-| Adhesive tape (MG1) | 1 | <img src="./docs/images/Assembly-guide-photos/parts/3M-adhesive-tape.jpg?raw=true" width="250" /> |
+| 25x5x5mm N52 Neodymium magnets | 2 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/N52%20Neodymium%20magnet.jpg" width="250" /> |
+| Adhesive tape (MG1) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/3M-adhesive-tape.jpg" width="250" /> |
 
 #### Steps
 
 1. Apply the 3M adhesive tape to a whole magnet row and use the lancet to cut the 3M adhesive tape.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Magnets-plus-adhesive-tape.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Magnets-plus-adhesive-tape.jpg" width="600" />
   </p>
 
 2. Separate 1 piece of magnet using the Lancet.
@@ -362,8 +362,8 @@ If the problem continues, please set it away for troubleshooting and repair.
 
 | Parts | Qty | Image |
 |-|-|-|
-| Fan blower | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Fan%20blower.jpg?raw=true" width="250" /> |
-| 3M VHB 5952 double-sided foam pads | 1 | <img src="./docs/images/Assembly-guide-photos/parts/3m-double-tape.jpg?raw=true" width="250" /> |
+| Fan blower | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Fan%20blower.jpg" width="250" /> |
+| 3M VHB 5952 double-sided foam pads | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/3m-double-tape.jpg" width="250" /> |
 
 #### Steps
 
@@ -373,26 +373,26 @@ If the problem continues, please set it away for troubleshooting and repair.
   - Make sure the foam pad is within the fan's limitations and not beyond them.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Fan-blower-complete.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Fan-blower-complete.jpg" width="600" />
 </p>
 
 ## Top shell with UV resin
 
 | Tools | Image |
 |-|-|
-| File | <img src="./docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
-| UV curing station | <img src="./docs/images/Sub-processes/UV-curing-photos/Curing-station.jpg" width="250" /> |
-| UV protective goggles | <img src="./docs/images/Sub-processes/UV-curing-photos/protection-goggles.jpg" width="250" /> |
-| Protective gloves | <img src="./docs/images/Sub-processes/Painting-process-photos/disposable-gloves.jpg" width="250" /> |
-| Syringe and needle | <img src="./docs/images/Sub-processes/UV-curing-photos/Syringe-plus-needle.jpg" width="250" /> |
-| Paper towel | <img src="./docs/images/Sub-processes/UV-curing-photos/Paper-towel.jpg" width="250" /> |
-| Cardboard | <img src="./docs/images/Sub-processes/UV-curing-photos/Cardboard.jpg" width="250" /> |
+| File | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/File.jpg" width="250" /> |
+| UV curing station | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Curing-station.jpg" width="250" /> |
+| UV protective goggles | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/protection-goggles.jpg" width="250" /> |
+| Protective gloves | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/Painting-process-photos/disposable-gloves.jpg" width="250" /> |
+| Syringe and needle | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Syringe-plus-needle.jpg" width="250" /> |
+| Paper towel | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Paper-towel.jpg" width="250" /> |
+| Cardboard | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Cardboard.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| Top shell | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Top%20shell.jpg?raw=true" width="250" /> |
-| UV resin in bottle | 1 | <img src="./docs/images/Sub-processes/UV-curing-photos/Resin-bottle.jpg?raw=true" width="250" /> |
-| Plastic weld solvent | 1 | <img src="./docs/images/Assembly-guide-photos/Tools/plastic-weld-solvet.png?raw=true" width="250" /> |
+| Top shell | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Top%20shell.jpg" width="250" /> |
+| UV resin in bottle | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Resin-bottle.jpg" width="250" /> |
+| Plastic weld solvent | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/plastic-weld-solvet.png" width="250" /> |
 
 #### Steps
 
@@ -410,56 +410,56 @@ If the problem continues, please set it away for troubleshooting and repair.
   - Keep the resin bottle closed at all times
   - Install the needle on the syringe
   <p align="center">
-  <img src="./docs/images/Sub-processes/UV-curing-photos/Needle-installation.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Needle-installation.jpg" width="600" />
   </p>
 
   - Hold the syringe upwards and press the plunger slowly to remove excess air, always covered by a paper towel
   <p align="center">
-  <img src="./docs/images/Sub-processes/UV-curing-photos/Remove-excess-air.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Remove-excess-air.jpg" width="600" />
   </p>
 
   - Be sure that your protective gloves are clean without any remaining resin on them to avoid contaminating the Top-shell
 
 4. Place the top shell upside down and place the cardboard under the slots
   <p align="center">
-  <img src="./docs/images/Sub-processes/UV-curing-photos/Cardboard-under-the-shell.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Cardboard-under-the-shell.jpg" width="600" />
   </p>
 
 5. Direct the needle close and above the LED hole and press the plunger extremely gently and slowly, a tiny drop is enough
   - Be careful as the needle may keep dripping
   - The holes should be perfectly clear, if plastic debris blocks the holes remove them using tweezers
   <p align="center">
-  <img src="./docs/images/Sub-processes/UV-curing-photos/Proper-hight-applying-resin.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Proper-hight-applying-resin.jpg" width="600" />
   <br/>
-  <img src="./docs/images/Sub-processes/UV-curing-photos/Properly%20applied%20resin.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Properly%20applied%20resin.jpg" width="600" />
   </p>
 
 6. After the resin is applied to 16 holes place the top shell halfway through to the curing station making sure that both LED lamps are pointing to the LED holes
   - You can use a toothpick to gently push the cured resin to make sure it feels solid and therefore is properly cured
   <p align="center">
-  <img src="./docs/images/Sub-processes/UV-curing-photos/Curing.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Sub-processes/UV-curing-photos/Curing.jpg" width="600" />
   </p>
 
 ## Top shell complete
 
 | Tools | Image |
 |-|-|
-| 5mm HEX socket driver | <img src="./docs/images/Assembly-guide-photos/Tools/hex-socket-5.jpg" width="250" /> |
-| BOSCH screwdrivers | <img src="./docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
-| Stand-off alignment jig (HT1) | <img src="./docs/images/Assembly-guide-photos/Jigs/Heat%20threaded%20insert%20jig%20(HT1).jpg" width="250" /> |
-| Fan blower jig (FB1) | <img src="./docs/images/Assembly-guide-photos/Jigs/Fan%20blower%20jig%20(FB1).jpg" width="250" /> |
-| Lancet | <img src="./docs/images/Assembly-guide-photos/Tools/Lancet.jpg" width="250" /> |
-| Glue-gun | <img src="./docs/images/Assembly-guide-photos/Tools/Glue-gun.jpg" width="250" /> |
-| 2-part epoxy mixing nozzle | <img src="./docs/images/Assembly-guide-photos/Tools/Epoxy-mix-nozzle.jpg" width="250" /> |
+| 5mm HEX socket driver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/hex-socket-5.jpg" width="250" /> |
+| BOSCH screwdrivers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
+| Stand-off alignment jig (HT1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/Heat%20threaded%20insert%20jig%20(HT1).jpg" width="250" /> |
+| Fan blower jig (FB1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/Fan%20blower%20jig%20(FB1).jpg" width="250" /> |
+| Lancet | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Lancet.jpg" width="250" /> |
+| Glue-gun | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Glue-gun.jpg" width="250" /> |
+| 2-part epoxy mixing nozzle | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Epoxy-mix-nozzle.jpg" width="250" /> |
 
 
 | Parts | Qty | Image |
 |-|-|-|
-| M3x8mm HEX male to female self threading standoffs | 8 | <img src="./docs/images/Assembly-guide-photos/parts/Self-threated-8mm-stanoff.jpg" width="250" /> |
-| [Magnets complete](#Magnets-complete) | 1 | <img src="./docs/images/Assembly-guide-photos/instructions/Magnets-plus-adhesive-tape.jpg" width="250" /> |
-| [Fan blower complete](#Fan-blower-complete) | 1 | <img src="./docs/images/Assembly-guide-photos/instructions/Fan-blower-complete.jpg" width="250" />  |
-| Maxen 7in screen | 1 | <img src="./docs/images/Assembly-guide-photos/parts/7in%20screen%26%20i2c%20touchpanel.jpg" width="250" /> |
-| 2-part structural adhesive liquid glue | 1 | <img src="./docs/images/Assembly-guide-photos/parts/2-part-adhesive-glue.jpg" width="250" /> |
+| M3x8mm HEX male to female self threading standoffs | 8 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Self-threated-8mm-stanoff.jpg" width="250" /> |
+| [Magnets complete](#Magnets-complete) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Magnets-plus-adhesive-tape.jpg" width="250" /> |
+| [Fan blower complete](#Fan-blower-complete) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Fan-blower-complete.jpg" width="250" />  |
+| Maxen 7in screen | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/7in%20screen%26%20i2c%20touchpanel.jpg" width="250" /> |
+| 2-part structural adhesive liquid glue | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/2-part-adhesive-glue.jpg" width="250" /> |
 
 #### Steps
 
@@ -467,13 +467,13 @@ If the problem continues, please set it away for troubleshooting and repair.
   - Use only **BOSCH GSR12V screwdriver**  use speed  **1** - torque **1**
 
 <p align="center">
-   <img src="./docs/images/Assembly-guide-photos/instructions/Stand-offs-alignment.jpg" width="600" />
+   <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Stand-offs-alignment.jpg" width="600" />
 </p>
 
 2. Insert the magnet to magnet holder with the tape side facing the bottom of the holder
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Installing-magnet.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Installing-magnet.jpg" width="600" />
 </p>
 
 3. Repeat the previous step for the remaining magnet holder
@@ -481,7 +481,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 4. Use the 'Fan blower jig (FB1)' to install the fan blower in place
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/fan-aligned-assembled.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/fan-aligned-assembled.jpg" width="600" />
 </p>
 
 5. Take a screen module (touch panel + display) and carefully remove the double-sided mounting tape on the touchpanel from the backside of the screen module
@@ -489,47 +489,47 @@ If the problem continues, please set it away for troubleshooting and repair.
   - The 2 flat cables should be orientated towards the EtcherPro slots
 
   <p align="center">
-    <img src="./docs/images/Assembly-guide-photos/instructions/Mounting-tape.jpg" width="600" />
+    <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Mounting-tape.jpg" width="600" />
   </p>
 
 6. Insert the screen in the respective opening and make sure it's properly aligned
   - Make sure the screen is properly attached to the top shell
 
   <p align="center">
-    <img src="./docs/images/Assembly-guide-photos/instructions/Proper-alignm..jpg" width="600" /> <img src="./docs/images/Assembly-guide-photos/instructions/Install-screen.jpg" width="600" />
+    <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Proper-alignm..jpg" width="600" /> <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Install-screen.jpg" width="600" />
   </p>
 
 7. To properly mount the screen, flip the shell over and push the top shell in the direction of the screen where the adhesive tape is located.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Push-in-place.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Push-in-place.jpg" width="600" />
   </p>
 
 - Use the glue gun with the nozzle attached to apply the 2-part adhesive glue to the screen's four corners.
 - Make sure that the glue is properly applied by covering both the screen and the plastic surface.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Glue-applied.jpg" width="600" /> <img src="./docs/images/Assembly-guide-photos/instructions/Screen-installed.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Glue-applied.jpg" width="600" /> <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Screen-installed.jpg" width="600" />
 </p>
 
 ## Top subassembly
 
 | Tools | Image |
 |-|-|
-| 5mm HEX socket driver | <img src="./docs/images/Assembly-guide-photos/Tools/hex-socket-5.jpg?raw=true" width="250" /> |
-| BOSCH screwdrivers | <img src="./docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg?raw=true" width="250" /> |
-| Tweezers | <img src="./docs/images/Assembly-guide-photos/Tools/tweezers.jpg?raw=true" width="250" /> |
-| Logo sticker jig (LS1) | <img src="./docs/images/Assembly-guide-photos/Jigs/Logo%20sticker%20jig%20(LS1).jpg?raw=true" width="250" /> |
-| Methylated spirits or IPA alcohol | <img src="./docs/images/Assembly-guide-photos/Tools/methylated-spirit.png?raw=true" width="250" /> |
-| Cotton rug | <img src="./docs/images/Assembly-guide-photos/Tools/Cotton-rug.png?raw=true" width="250" /> |
+| 5mm HEX socket driver | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/hex-socket-5.jpg" width="250" /> |
+| BOSCH screwdrivers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
+| Tweezers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/tweezers.jpg" width="250" /> |
+| Logo sticker jig (LS1) | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Jigs/Logo%20sticker%20jig%20(LS1).jpg" width="250" /> |
+| Methylated spirits or IPA alcohol | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/methylated-spirit.png" width="250" /> |
+| Cotton rug | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Cotton-rug.png" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| [PCBA complete](#PCBA-complete) | 1 | <img src="./docs/images/Assembly-guide-photos/boards/Mainboard-subassembly.jpg" width="250" /> |
-| [Top shell complete](#Top-shell-complete) | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Complete-Top-shell.jpg" width="250" /> |
-| M3x8mm HEX male to female standoffs | 4 | <img src="./docs/images/Assembly-guide-photos/parts/M3%20male-female%206mm%20standoff.jpg" width="250" /> |
-| M3x10mm HEX male to female standoffs | 4 | <img src="./docs/images/Assembly-guide-photos/parts/M3x7mm%20male-female%20standoff.jpg" width="250" /> |
-| Logo sticker | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Logo%20sticker.jpg" width="250" /> |
+| [PCBA complete](#PCBA-complete) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/boards/Mainboard-subassembly.jpg" width="250" /> |
+| [Top shell complete](#Top-shell-complete) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Complete-Top-shell.jpg" width="250" /> |
+| M3x8mm HEX male to female standoffs | 4 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/M3%20male-female%206mm%20standoff.jpg" width="250" /> |
+| M3x10mm HEX male to female standoffs | 4 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/M3x7mm%20male-female%20standoff.jpg" width="250" /> |
+| Logo sticker | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Logo%20sticker.jpg" width="250" /> |
 
 #### Steps
 
@@ -537,7 +537,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 - Make sure that the display ribbon cable has passed through the PCB slot and the touch panel ribbon cable is folded towards the screen.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/ribbon-through-PCB.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/ribbon-through-PCB.jpg" width="600" />
 </p>
 
 2. Secure the mainboard using the longer standoffs on the top row and the shorter standoffs on the bottom row
@@ -545,7 +545,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 - For BOSCH GSB120 screwdriver use speed **2** - torque **1** (should be set to 'Screw', not 'Drill' or 'Hammer')
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/mainboard-inside-top-shell.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/mainboard-inside-top-shell.jpg" width="600" />
 </p>
 
 3. Connect the screen ribbon cable to the screen connector
@@ -553,11 +553,11 @@ If the problem continues, please set it away for troubleshooting and repair.
 - Make sure that the ribbon cable is gently pushed all the way in the connector before pushing down the connector flap
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Connect-ribbon.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Connect-ribbon.jpg" width="600" />
 </p>
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Ribbon-flap-down.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Ribbon-flap-down.jpg" width="600" />
 </p>
 
 4. Connect the touchpanel ribbon cable to the touchpanel connector
@@ -565,11 +565,11 @@ If the problem continues, please set it away for troubleshooting and repair.
 - Make sure that the ribbon cable is gently pushed all the way in the connector before pushing down the connector flap
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Touchpanel-ribbon.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Touchpanel-ribbon.jpg" width="600" />
 </p>
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Flap-up.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Flap-up.jpg" width="600" />
 </p>
 
 5. Remove the double-sided tape protection layer from the antennas and attach the antennas to the top shell
@@ -578,14 +578,14 @@ If the problem continues, please set it away for troubleshooting and repair.
 - Make sure the cable is not under tension
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/antenna-right-place.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/antenna-right-place.jpg" width="600" />
 </p>
 
 6. Connect the fan blower's cable to the mainboard
 - Fold the cable under the mainboard as indicated in the photo
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/fan-blower's-cable.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/fan-blower's-cable.jpg" width="600" />
 </p>
 
 7. Using the tweezers, grab a logo sticker without removing the top protective film
@@ -599,21 +599,21 @@ If the problem continues, please set it away for troubleshooting and repair.
 - If there is residue from the sticker, use a rug with a bit of methylated spirits or alcohol to remove it
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Logo-sticker-with-jig.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Logo-sticker-with-jig.jpg" width="600" />
 </p>
 
 ## EtcherPro device
 
 | Tools | Image |
 |-|-|
-| Torx screwdriver no 10 | <img src="./docs/images/Assembly-guide-photos/Tools/torx-10.jpg" width="250" /> |
-| BOSCH screwdrivers | <img src="./docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
+| Torx screwdriver no 10 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/torx-10.jpg" width="250" /> |
+| BOSCH screwdrivers | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Bosch-GSR-12V-GSB-120LI.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| [Top subassembly](#Top-subassembly) | 1 | <img src="./docs/images/Assembly-guide-photos/instructions/mainboard-inside-top-shell.jpg" width="250" /> |
-| [Bottom subassembly](#Bottom-subassembly) | 1 | <img src="./docs/images/Assembly-guide-photos/instructions/Bottom-plus-PSU-mounted.jpg" width="250" /> |
-| M3x8mm torx countersunk screw | 4 | <img src="./docs/images/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250" /> |
+| [Top subassembly](#Top-subassembly) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/mainboard-inside-top-shell.jpg" width="250" /> |
+| [Bottom subassembly](#Bottom-subassembly) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Bottom-plus-PSU-mounted.jpg" width="250" /> |
+| M3x8mm torx countersunk screw | 4 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/M3x8mm torx screw.jpg" width="250" /> |
 
 #### Steps
 
@@ -633,7 +633,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 - For the BOSCH screwdrivers, set speed  **1** - torque **1**
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Top-Bottom-open-assembled.jpg" width="600" /><img src="./docs/images/Assembly-guide-photos/instructions/Device-sealed.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Top-Bottom-open-assembled.jpg" width="600" /><img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Device-sealed.jpg" width="600" />
 </p>
 
 
@@ -641,8 +641,8 @@ If the problem continues, please set it away for troubleshooting and repair.
 
 | Parts | Qty | Image |
 |-|-|-|
-| Getting started sticker | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Getting-started-sticker.jpg" width="250" /> |
-| EtcherPro bag | 1 | <img src="./docs/images/Assembly-guide-photos/parts/EP-Bag.jpg" width="250" />  |
+| Getting started sticker | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Getting-started-sticker.jpg" width="250" /> |
+| EtcherPro bag | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/EP-Bag.jpg" width="250" />  |
 
 #### Steps
 
@@ -651,7 +651,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 2. Install the Getting Started sticker near the top right corner of the screen
 
 <p align="center">
-  <img src="./output/Batch-production-photos/Getting-started-stick-orientation.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Batch-production-photos/Getting-started-stick-orientation.jpg" width="600" />
 </p>
 
 - Make sure the rubber feet are in place
@@ -664,33 +664,33 @@ If the problem continues, please set it away for troubleshooting and repair.
 
 | Parts | Qty | Image |
 |-|-|-|
-| Cable bag | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Cable-bag.jpg" width="250" /> |
-| Power cable contents | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Power-cable.jpg" width="250" /> |
-| balenaEtcherPro sticker | 1 | <img src="./docs/images/Assembly-guide-photos/parts/EP-sticker.jpg" width="250" /> |
-| I am Pro sticker | 1 | <img src="./docs/images/Assembly-guide-photos/parts/I-am-pro-sticker.jpg" width="250" /> |
+| Cable bag | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Cable-bag.jpg" width="250" /> |
+| Power cable contents | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Power-cable.jpg" width="250" /> |
+| balenaEtcherPro sticker | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/EP-sticker.jpg" width="250" /> |
+| I am Pro sticker | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/I-am-pro-sticker.jpg" width="250" /> |
 
 #### Steps
 
 1. Open the cable bag and place both of the stickers inside, seal it again.
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/parts/Cable-bag-sub-assembly.jpg" width="600" /> <img src="./output/Batch-production-photos/Ep-sticker-box.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Cable-bag-sub-assembly.jpg" width="600" /> <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Batch-production-photos/Ep-sticker-box.jpg" width="600" />
 </p>
 
 ## EtcherPro packed
 
 | Tools | Image |
 |-|-|
-| Packing tape dispenser gun | <img src="./docs/images/Assembly-guide-photos/Tools/tape-dispenser.jpg?raw=true" width="250" /> |
+| Packing tape dispenser gun | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/tape-dispenser.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| [EtcherPro in bag](#EtcherPro-in-bag) | 1 | <img src="./docs/images/Assembly-guide-photos/parts/EP-in-the-bag.jpg" width="250" /> |
-| [Cable bag subassembly](#Cable-bag-subassembly) | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Cable-bag-sub-assembly.jpg" width="250" /> |
-| EtcherPro printed box | 1 | <img src="./docs/images/Assembly-guide-photos/parts/EtcherPro-printed-box.jpg" width="250" /> |
-| Box left foam padding | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Box-left-foam.jpg" width="250" /> |
-| Box right foam padding | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Box-right-foam.jpg" width="250" /> |
-| Packing tape 3M 313 75ΜΜΧ66Μ | 1 | <img src="./docs/images/Assembly-guide-photos/Tools/3M-313-packing-tape.jpg" width="250" /> |
+| [EtcherPro in bag](#EtcherPro-in-bag) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/EP-in-the-bag.jpg" width="250" /> |
+| [Cable bag subassembly](#Cable-bag-subassembly) | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Cable-bag-sub-assembly.jpg" width="250" /> |
+| EtcherPro printed box | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/EtcherPro-printed-box.jpg" width="250" /> |
+| Box left foam padding | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Box-left-foam.jpg" width="250" /> |
+| Box right foam padding | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Box-right-foam.jpg" width="250" /> |
+| Packing tape 3M 313 75ΜΜΧ66Μ | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/3M-313-packing-tape.jpg" width="250" /> |
 
 #### Steps
 
@@ -702,7 +702,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 3. Place the cable bag subassembly inside the box
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/Power-cord-inside-the-box.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/Power-cord-inside-the-box.jpg" width="600" />
 </p>
 
 
@@ -710,7 +710,7 @@ If the problem continues, please set it away for troubleshooting and repair.
 - Make sure the EtcherPro bag is tidy in place
 
 <p align="center">
-  <img src="./output/Batch-production-photos/Device-plus-foam.jpg" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Batch-production-photos/Device-plus-foam.jpg" width="600" />
 </p>
 
 5. Place the EtcherPro device with the paddings inside the Box and ensure that the Balena logo sticker is in line with the one on the carton box
@@ -720,18 +720,18 @@ before you seal it.
 - Make sure the tape is consistent without wrinkles
 
 <p align="center">
-  <img src="./docs/images/Assembly-guide-photos/instructions/EP-box-closed.jpg?raw=true" width="600" />
+  <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/instructions/EP-box-closed.jpg" width="600" />
 </p>
 
 ## EtcherPro ready to ship
 
 | Tools | Image |
 |-|-|
-| Shipping label printer | <img src="./docs/images/Assembly-guide-photos/Tools/Printer.jpg" width="250" /> |
+| Shipping label printer | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/Tools/Printer.jpg" width="250" /> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| Shipping label paper | 1 | <img src="./docs/images/Assembly-guide-photos/parts/Shipping-label.jpg" width="250" /> |
+| Shipping label paper | 1 | <img src="https://github.com/balena-io-hardware/etcherPro-assemblyGuide-doc/raw/master/docs/images/Assembly-guide-photos/parts/Shipping-label.jpg" width="250" /> |
 
 #### Steps
 
