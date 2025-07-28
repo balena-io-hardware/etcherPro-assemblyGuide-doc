@@ -1,4 +1,16 @@
 - commits:
+    - subject: "patch: Update image paths in docs"
+      hash: 25bfa798d35a76a14ddc8c5e7ac4f2e473b197b4
+      body: ""
+      footer:
+        Signed-off-by: Vipul Gupta (@vipulgupta2048) <vipulgupta2048@gmail.com>
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipulgupta2048@gmail.com>
+      author: Vipul Gupta (@vipulgupta2048)
+      nested: []
+  version: 2.0.2
+  title: ""
+  date: 2025-07-28T10:24:02.372Z
+- commits:
     - subject: Fix links
       hash: 544cee22bed890cf01fc2c75d7f608507e6f5f35
       body: ""
